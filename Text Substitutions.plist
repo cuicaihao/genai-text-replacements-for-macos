@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string> As professional editor, refine the following text for clarity, style, and readability; enhance the flow and fix any grammatical or typographical errors.</string>
+		<key>shortcut</key>
+		<string>zzed</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Act as a senior professional editor for business writing. Refine the following text for clarity, conciseness, and flow, while preserving original meaning. Correct grammar and style issues, ensure professional yet approachable tone, and return the revised version in clean Markdown format without extra commentary.</string>
+		<key>shortcut</key>
+		<string>zzedbiz</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>You are an academic peer reviewer. Improve the text for clarity, logical flow, and formal tone, while retaining technical terminology. Correct grammar, avoid idiomatic language, and format output in paragraphs suitable for a journal abstract.</string>
+		<key>shortcut</key>
+		<string>zzedacad</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Act as an expert copyeditor. Polish the text for grammar, readability, and flow. Provide two outputs: (1) a minimally edited version that fixes only errors, and (2) a fully optimized version that enhances clarity and style for a professional audience.</string>
+		<key>shortcut</key>
+		<string>zzeddual</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Act as a friendly blog editor. Refine the following text for readability and flow, keeping the tone casual, engaging, and easy to follow for a general audience. Fix grammar and spelling while preserving the author’s personal voice. Return the revised text in clean Markdown format.</string>
+		<key>shortcut</key>
+		<string>zzedcasual</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As professional editor, read the following context and related links to summarise the content into a list and highlight the most important topics.</string>
+		<key>shortcut</key>
+		<string>zzsum</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a professional email writer, compose a polite and professional email response to the following message, maintaining appropriate tone and business etiquette.</string>
+		<key>shortcut</key>
+		<string>zzemail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a meeting facilitator, create a structured agenda for the following meeting topic with clear objectives, time allocations, and action items.</string>
+		<key>shortcut</key>
+		<string>zzagenda</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a technical writer, explain the following complex concept in simple terms that a non-technical audience can understand.</string>
+		<key>shortcut</key>
+		<string>zzsimplify</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a project manager, analyze the following information and create a comprehensive project plan with milestones, dependencies, and risk assessment.</string>
+		<key>shortcut</key>
+		<string>zzplan</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a business analyst, review the following data and provide key insights, trends, and actionable recommendations.</string>
+		<key>shortcut</key>
+		<string>zzanalyze</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a presentation expert, convert the following content into a clear, engaging slide deck outline with bullet points and suggested visuals.</string>
+		<key>shortcut</key>
+		<string>zzslides</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a meeting note taker, organize the following discussion points into a structured meeting summary with decisions made and next steps.</string>
+		<key>shortcut</key>
+		<string>zznotes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a quality assurance reviewer, check the following content for accuracy, consistency, and completeness, highlighting any issues or gaps.</string>
+		<key>shortcut</key>
+		<string>zzqa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a creative brainstorming facilitator, generate innovative ideas and solutions for the following challenge or problem statement.</string>
+		<key>shortcut</key>
+		<string>zzbrainstorm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a communication specialist, rephrase the following message to be more diplomatic, positive, and solution-focused.</string>
+		<key>shortcut</key>
+		<string>zzdiplomacy</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a research assistant, find and compile relevant information about the following topic, providing credible sources and key findings.</string>
+		<key>shortcut</key>
+		<string>zzresearch</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a task organizer, break down the following complex task into smaller, manageable steps with clear priorities and timelines.</string>
+		<key>shortcut</key>
+		<string>zztasks</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a professional formatter, restructure the following content with proper headings, bullet points, and improved visual hierarchy.</string>
+		<key>shortcut</key>
+		<string>zzformat</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a language translator, translate the following text while preserving the original tone, context, and professional meaning.</string>
+		<key>shortcut</key>
+		<string>zztranslate</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a document reviewer, proofread the following content for grammar, spelling, punctuation, and style consistency.</string>
+		<key>shortcut</key>
+		<string>zzproof</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As an executive assistant, create a professional follow-up message for the following meeting or conversation.</string>
+		<key>shortcut</key>
+		<string>zzfollow</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a training developer, create a step-by-step tutorial or guide for the following process or procedure.</string>
+		<key>shortcut</key>
+		<string>zztutorial</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a customer service specialist, craft a empathetic and helpful response to the following customer inquiry or complaint.</string>
+		<key>shortcut</key>
+		<string>zzservice</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a report writer, transform the following information into a professional executive summary with key findings and recommendations.</string>
+		<key>shortcut</key>
+		<string>zzreport</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As an Agile Tech Lead, analyze the following user story and break it down into technical tasks with acceptance criteria, dependencies, and story points estimation for the AI/ML team.</string>
+		<key>shortcut</key>
+		<string>zzstory</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Scrum Master, create JIRA ticket descriptions for the following requirements, including clear acceptance criteria, technical specifications, and definition of done for ML engineering.</string>
+		<key>shortcut</key>
+		<string>zzjira</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Sprint Planning facilitator, organize the following backlog items into sprint goals with capacity planning for Data Engineers and Data Scientists across ML pipeline development.</string>
+		<key>shortcut</key>
+		<string>zzsprint</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a DevOps engineer, create a CI/CD pipeline documentation for the following ML model deployment, including stages, testing strategies, and rollback procedures.</string>
+		<key>shortcut</key>
+		<string>zzcicd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As an AI/ML Tech Lead, conduct a technical retrospective analysis of the following sprint outcomes and provide actionable improvements for team velocity and code quality.</string>
+		<key>shortcut</key>
+		<string>zzretro</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a ML Engineering manager, create a comprehensive code review checklist for AI/ML projects covering model performance, data quality, and deployment readiness.</string>
+		<key>shortcut</key>
+		<string>zzreview</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Technical Architect, design a scalable ML system architecture for the following requirements, including data flow, model serving, and monitoring components.</string>
+		<key>shortcut</key>
+		<string>zzarch</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Data Pipeline engineer, create technical specifications for ETL/ELT processes supporting the following ML use case, including data validation and quality checks.</string>
+		<key>shortcut</key>
+		<string>zzpipeline</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As an MLOps specialist, develop monitoring and alerting strategies for the following ML models in production, including drift detection and performance metrics.</string>
+		<key>shortcut</key>
+		<string>zzmlops</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Technical Lead, perform risk assessment and mitigation strategies for the following AI/ML project timeline and deliverables in an Agile environment.</string>
+		<key>shortcut</key>
+		<string>zzrisk</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Cross-functional team lead, facilitate communication between DE, DS, and engineering teams by translating the following technical requirements into actionable tasks.</string>
+		<key>shortcut</key>
+		<string>zzxfunc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Git workflow manager, create branching strategy and merge procedures for collaborative AI/ML development with proper version control for models and datasets.</string>
+		<key>shortcut</key>
+		<string>zzgit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Technical Documentation lead, create comprehensive API documentation for the following ML service endpoints, including request/response schemas and error handling.</string>
+		<key>shortcut</key>
+		<string>zzapi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As an Infrastructure engineer, design containerization and orchestration strategy for the following ML workloads using Docker/Kubernetes for scalable deployment.</string>
+		<key>shortcut</key>
+		<string>zzinfra</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Quality Assurance engineer, develop comprehensive testing strategies for ML models including unit tests, integration tests, and model validation frameworks.</string>
+		<key>shortcut</key>
+		<string>zztest</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Technical Product Owner, prioritize the following feature backlog for AI/ML products based on business value, technical complexity, and team capacity.</string>
+		<key>shortcut</key>
+		<string>zzbacklog</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Performance engineer, analyze the following ML system bottlenecks and provide optimization recommendations for inference latency and throughput improvements.</string>
+		<key>shortcut</key>
+		<string>zzperf</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Security engineer, conduct security assessment for the following AI/ML system design, including data privacy, model security, and access control measures.</string>
+		<key>shortcut</key>
+		<string>zzsec</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As a Stakeholder communication lead, translate the following technical ML concepts into business-friendly updates for executive reporting and project status.</string>
+		<key>shortcut</key>
+		<string>zzstake</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>As an Incident Response manager, create a detailed post-mortem analysis for the following ML system failure, including root cause analysis and prevention measures.</string>
+		<key>shortcut</key>
+		<string>zzincident</string>
+	</dict>
+</array>
+</plist>
