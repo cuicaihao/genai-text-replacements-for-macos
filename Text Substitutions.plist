@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>phrase</key>
-		<string> As professional editor, refine the following text for clarity, style, and readability; enhance the flow and fix any grammatical or typographical errors.</string>
+		<string>Act as a Senior Communications Strategy Lead. Task: Rewrite the provided text into a clear, professional message suitable for a general corporate audience (for example, an email, memo, announcement, Slack message, or Google Chat message). Objectives: Simplify: Replace buzzwords and jargon (e.g., "synergistic," "bandwidth") with plain, professional language. Precision: Ensure every sentence has a clear subject. Replace vague pronouns (it, this, that) with specific nouns to avoid ambiguity. Structure: Use a logical hierarchy with a clear Subject Line, Headings, and Bullet Points for scannability. Tone: Maintain a collaborative and authoritative tone. Use natural transitions (e.g., "Regarding," "As a result," "In addition") rather than staccato, repetitive starters. Brevity: Keep sentences concise but allow for natural flow (aim for 15-20 words max per sentence).</string>
 		<key>shortcut</key>
 		<string>zzed</string>
 	</dict>
@@ -112,7 +112,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>As a professional formatter, restructure the following content with proper headings, bullet points, and improved visual hierarchy.</string>
+		<string>As a professional formatter, restructure the following content according to these 7 writing rules: 01 Simplicity and Brevity (use simple words and short sentences, avoid jargon, keep sentences under 15 words) 02 One Idea per Sentence (ensure each sentence has one subject and one core point, avoid mixing multiple concepts) 03 Eliminate Ambiguity (flag vague pronouns, ensure all references are clear, avoid dangling modifiers) 04 Repeat Key Terms (repeat keywords for clarity, maintain consistent prepositions and conjunctions, ensure parallelism) 05 Logical Transitions (use logical connectors to start sentences: "However," "Therefore," "Meanwhile") 06 Emphasis through Placement (place important information at the start or end of the sentence, use contrast to highlight points) 07 Specific Referents (ensure every "it," "this," or "that" has a single, unambiguous noun referent). Return formatted content with proper headings, bullet points, and improved visual hierarchy.</string>
 		<key>shortcut</key>
 		<string>zzformat</string>
 	</dict>

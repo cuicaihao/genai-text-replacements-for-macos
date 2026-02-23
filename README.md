@@ -8,7 +8,7 @@ This repository provides a `Text Substitutions.plist` file containing 45 prompt 
 
 ## Quick Reference Guide
 
-### General Office & Communication (21 shortcuts)
+### General Office & Communication (25 shortcuts)
 
 - **`zzed`** - Professional text editing and refinement
 - **`zzedbiz`** - Business writing refinement for clarity, conciseness, and professional tone
