@@ -158,7 +158,7 @@ To add your own shortcuts or modify existing ones:
 
 ## License
 
-This project is open source. Feel free to modify and distribute according to your needs.
+This project is available under the [MIT License](LICENSE).
 
 ---
 
