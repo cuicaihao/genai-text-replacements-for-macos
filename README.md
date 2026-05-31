@@ -1,4 +1,4 @@
-# GenAI Prompt Engineering Text Substitutions for macOS
+# GenAI Text Replacements for macOS
 
 [简体中文](README.zh-CN.md)
 

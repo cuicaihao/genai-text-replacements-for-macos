@@ -1,8 +1,8 @@
-# 适用于 macOS 的 GenAI 提示词文本替换
+# 适用于 macOS 的 GenAI 文本替换
 
 [English](README.md)
 
-![适用于 macOS 的 GenAI 提示词文本替换](assets/feature-image.png)
+![适用于 macOS 的 GenAI 文本替换](assets/feature-image.png)
 
 本仓库提供一套用于 GenAI 提示词工程的 macOS 文本替换词库，主要面向从事 AI/ML 工程、敏捷交付和 DevOps 工作的技术人员。
 
